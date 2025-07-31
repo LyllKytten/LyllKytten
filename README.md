@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LyllKytten
 - 👀 I’m interested in piano, guitar, C++, AI, python, MSSQL, js
-- 🌱 I’m currently learning Mashin Learning
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me olivemasterm@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love womens
+- ⚡ Fun fact: I love cats
 
 <!---
 LyllKytten/LyllKytten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
