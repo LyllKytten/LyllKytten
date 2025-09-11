@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LyllKytten
-- 👀 I’m interested in piano, guitar, C++, AI, python, MSSQL, js
+- 👀 I’m interested in piano, guitar, C++, AI, python, MSSQL, web, java
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me olivemasterm@gmail.com
